@@ -1,4 +1,4 @@
   # CALCULADORA EM MODO DARK
 
-Calculadora feita java utilizando os modos claro e dark
+Calculadora feita em java utilizando os modos claro e dark
 
