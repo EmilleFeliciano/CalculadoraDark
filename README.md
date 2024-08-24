@@ -1,5 +1,4 @@
-# Projetos feito em Java
+  # CALCULADORA EM MODO DARK
 
-1 - Calculadora em modo claro e dark
+Calculadora feito java utilizando os modos claro e dark
 
-2 - Fundamentos Java
